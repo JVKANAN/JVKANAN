@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JVKANAN 
+- 👋 Hi, I’m João Vitor 
 - 👀 I’m interested in information security, web programming and pentest.
 - 🌱 I am currently studying Information System at UFPB - CAMPUS IV
 
