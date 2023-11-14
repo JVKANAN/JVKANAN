@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="<blockquote class= "https://imgur.com/LeSO9Lt"
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="<blockquote class= "https://imgur.com/LeSO9Lt">
   
 
 </div>
