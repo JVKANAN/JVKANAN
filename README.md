@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
 
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/mkunLNebofwAAAAM/anime-headbang.gifwidth=220&height=211">  
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://imgur.com/LeSO9Lt">  
 
 </div>
   
