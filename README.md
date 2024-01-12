@@ -1,5 +1,5 @@
-- 👋 Hi, I’m João Vitor 
-- 👀 I’m interested in information security, web programming and pentest.
+- 👋 Hi, I’m João Vitor
+- 👀 I'm interested in information security, mainly in the area of ​​pentesting and back-end programming
 - 🌱 I am currently studying Information System at UFPB - CAMPUS IV
 
 ##
